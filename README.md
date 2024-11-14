@@ -2,5 +2,5 @@
 
 Hi Peeps!
 I made this Interactive Tableau Dashboard Project 
-on the Data Science Daomain Salaries across 
-different countries in the world
+on the Data Science Daomain Salaries based on experience 
+across different companies, locations, countries in the world
